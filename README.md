@@ -1,5 +1,5 @@
 V.0001
-Correção da lcoalização das imagens.
+Correção da localização das imagens.
 
 # Alura-Plus
 Projeto da Alura+, serviço de Streaming!
